@@ -1,0 +1,1 @@
+from .finetune import finetune_clip_classifier

@@ -1,0 +1,9 @@
+# Assume you have a anaconda environment with pre-installed packages (e.g., numpy, pandas, etc.)
+pytorch
+torchvision
+tqdm
+open_clip_torch
+wandb
+accelerate
+wilds
+scikit-learn
